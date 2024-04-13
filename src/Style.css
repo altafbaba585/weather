@@ -1,0 +1,9 @@
+.Whether {
+  text-align: center;
+}
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
